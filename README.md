@@ -10,7 +10,7 @@ BusTub supports basic SQL and comes with an interactive shell. You can get it ru
 
 <img src="logo/sql.png" alt="BusTub SQL" width="400">
 
-**WARNING: IF YOU ARE A STUDENT IN THE CLASS, DO NOT DIRECTLY FORK THIS REPO. DO NOT PUSH PROJECT SOLUTIONS PUBLICLY. THIS IS AN ACADEMIC INTEGRITY VIOLATION AND CAN LEAD TO GETTING YOUR DEGREE REVOKED, EVEN AFTER YOU GRADUATE.**
+
 
 ## Cloning this Repository
 
